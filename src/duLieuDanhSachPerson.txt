@@ -1,0 +1,15 @@
+Tuấn anh # 2002 # bắc giang # Yên Dũng # 9.2 # 9 # 9 # true
+Dũng # 2002 # bắc giang # Yên Dũng # 8 # 9 # 8 # true
+Nga # 2002 # bắc giang # Yên Dũng # 7 # 6 # 8.5 # true
+Tùng # 2002 # bắc giang # Yên Dũng # 5 # 5 # 6 # true
+Bình # 2002 # bắc giang # Yên Dũng # 4 # 5 # 5 # true
+Thế # 2002 # bắc giang # Yên Dũng # 9.2 # 9 # 9 # true
+An # 2002 # bắc giang # Yên Dũng # 9.2 # 9 # 9 # true
+Hùng # 2002 # bắc giang # Yên Dũng # 4 # 5 # 5 # true
+nam # 2002 # bắc giang # Yên Dũng # 9.2 # 9 # 9 # true
+tuấn # 1989 # bắc giang # Yên Dũng # 2011 # tự nhiên # false
+Hà # 1988 # bắc giang # Yên Dũng # 2011 # tự nhiên # false
+ngọc # 1998 # bắc giang # Yên Dũng # 2012 # xã hôi # false
+Trang # 1987 # bắc giang # Yên Dũng # 2011 # tự nhiên # false
+Hòa # 1988 # bắc giang # Yên Dũng # 2013 # xã hội # false
+Tráng # 1986 # bắc giang # Yên Dũng # 2011 # xã hội # false
